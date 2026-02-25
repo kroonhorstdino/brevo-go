@@ -26,7 +26,7 @@ package main
 import (
 	"fmt"
 	"context"
-    brevo "github.com/getbrevo/brevo-go/lib"
+    brevo "github.com/kroonhorstdino/brevo-go/lib"
 )
 
 func main() {
@@ -702,4 +702,3 @@ r, err := client.Service.Operation(auth, args)
 ## Author
 
 contact@brevo.com
-
